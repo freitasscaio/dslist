@@ -25,7 +25,3 @@ Um projeto completo de catálogo de jogos, desenvolvido como parte do curso Inte
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! 
-
-## 📄 Licença
-
-Este projeto está sob a licença [mencione a licença, ex: MIT License].
