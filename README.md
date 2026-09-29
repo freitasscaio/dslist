@@ -1,27 +1,33 @@
-# dslist 🎮
+# DSList
 
+REST API for managing and organizing games, developed with Java and Spring Boot.
 
+## Technologies
 
-Um projeto completo de catálogo de jogos, desenvolvido como parte do curso Intensivão Spring Boot Nelio Alves, focado na construção de uma aplicação back-end. Este projeto demonstra a integração de um backend para gerenciar e visualizar uma lista de jogos.
+- Java
+- Spring Boot
+- Spring Data JPA
+- PostgreSQL
 
-## 🚀 Tecnologias Utilizadas
+## Features
 
-* **Backend:** Java, Spring Boot, JPA, PostgreSQL
+- List games
+- View game details
+- Organize games into lists
+- Reorder games within a list
 
-## ✨ Funcionalidades
+## Getting Started
 
-* Listagem de jogos com informações básicas.
-* Visualização de detalhes de um jogo específico.
+### Requirements
 
-## ⚙️ Como Rodar o Projeto
+- Java
+- PostgreSQL
+- Maven
 
-### Backend
+### Run
 
-1.  Clone o repositório: `git clone git@github.com:freitasscaio/dslist.git` || `git clone https://github.com/freitasscaio/dslist.git`
-2.  Navegue até a pasta do backend: `cd dslist/backend`
-3.  Configure seu banco de dados (PostgreSQL) e as credenciais no `application.properties`.
-4.  Execute a aplicação Spring Boot.
+Clone the repository:
 
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! 
+```bash
+git clone https://github.com/freitasscaio/dslist.git
+cd dslist
